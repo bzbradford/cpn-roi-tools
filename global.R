@@ -17,7 +17,6 @@ suppressPackageStartupMessages({
 
 if (FALSE) {
   # add to renv
-  library(devtools)
   library(testthat)
 
   # renv
